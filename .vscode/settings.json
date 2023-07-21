@@ -1,0 +1,13 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Anas\\Desktop\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33.jar",
+            "c:\\Users\\Anas\\Downloads\\mysql-connector-j-8.0.33 (1)\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33.jar",
+            "c:\\Users\\Anas\\Downloads\\rs2xml.jar"
+        ],
+        "exclude": [
+            "c:\\Users\\Anas\\Downloads\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33\\mysql-connector-j-8.0.33.jar"
+        ]
+    }
+}

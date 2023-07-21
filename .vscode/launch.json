@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ManagerInfo",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.ManagerInfo",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "Employee",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.Employee",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "UpdateRoom",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.UpdateRoom",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "Department",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.Department",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "CustomerInfo",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.CustomerInfo",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "CheckOut",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.CheckOut",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "PickUp",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.PickUp",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "UpdateCheck",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.UpdateCheck",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "Room",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.Room",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "NewCustomer",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.NewCustomer",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "NewCustomer",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.NewCustomer",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "AddDrivers",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.AddDrivers",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "addroom",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.addroom",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "addemployee",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.addemployee",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Dashboard",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.Dashboard",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "HotelManagementSystem",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.HotelManagementSystem",
+            "projectName": "Java Project_457d7dff"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "HotelManagementSystem.hotel.Login",
+            "projectName": "Java Project_457d7dff"
+        }
+    ]
+}
